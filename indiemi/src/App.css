@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+.cousine-regular {
+  font-family: "Cousine", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.icon {
+    background-image: url('/src/assets/icon.png');
+}
+
