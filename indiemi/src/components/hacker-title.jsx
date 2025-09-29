@@ -136,6 +136,7 @@ export default function HackerTitle() {
                         disabled={isLoading}
                         aria-disabled={isLoading}
                         aria-label="terminal input"
+                        maxlength="5"
                         autoFocus
                     />
                 </div>
